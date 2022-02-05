@@ -28,7 +28,7 @@ define('DB_NAME', 'bandanam_wp523');
 define('DB_USER', 'bandanam_wp523');
 
 /** MySQL database password */
-define('DB_PASSWORD', '(np96C3yS)');
+define('DB_PASSWORD', 'San@#2103');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
